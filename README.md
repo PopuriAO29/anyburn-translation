@@ -1,6 +1,9 @@
 # AnyBurn Translation
 A Repository for AnyBurn that allows internationalize languages.
 
+### How to Translate
+TODO
+
 ### Credits
 We would like to give thanks to everyone who helped us to improve AnyBurn by reporting bugs, making suggestions, designing UI, etc. Special thanks to the following translation contributors:
 
