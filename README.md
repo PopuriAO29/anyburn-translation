@@ -2,7 +2,10 @@
 A Repository for AnyBurn that allows internationalize languages.
 
 ### How to Translate
-TODO
+On the Lang Folder, it uses INI file. So, we recommend use Notepad++.
+
+If you want to have a go at translating AnyBurn into your own language, Click the **BaseFile.ini** and click the RAW button.
+* Alternatively, you can right click the RAW button and save it if you want.
 
 ### Credits
 We would like to give thanks to everyone who helped us to improve AnyBurn by reporting bugs, making suggestions, designing UI, etc. Special thanks to the following translation contributors:
