@@ -21,6 +21,9 @@ We would like to give thanks to everyone who helped us to improve AnyBurn by rep
 * NAMP - Italiano
 * pCsOrI - Korean
 * Mariusz Swiatkowski - Polish
+* Liviu Dovancescu - Romanian
+* Dmitry Yerokhin - Russian
+* Silver - Ukrainian
 * Carlos Sanchez and Mauro mmm - Spanish
 * Teguh Rijanandi - Indonesian
 * Cure Popuri (PopuriAO29/PopuriO2), That's me! - British English and Japanese
