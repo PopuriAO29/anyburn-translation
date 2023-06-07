@@ -1,5 +1,9 @@
 # AnyBurn Translation
-A Repository for AnyBurn that allows internationalize languages.
+A Repository for AnyBurn that allows internationalize languages
+
+----
+PLEASE NOTE: THE LANGUAGE IS OUTDATED, THESE NOTE WILL BE REMOVED UNTIL FURTHER NOTICE WHILE THE NEW VERSION IS UPDATED. PLEASE BE PATIENT.
+----
 
 ### How to Translate
 On the Lang Folder, it uses INI file. So, we recommend use Notepad++.
